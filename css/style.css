@@ -74,8 +74,6 @@ body {
 }
 .header__link > img:hover {
     background-color: #cd6326;
-    width: 32px;
-    height: 32px;
 }
 .header__btn {
     display: flex;
